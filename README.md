@@ -58,7 +58,7 @@ Pastikan perangkat sudah memiliki:
 Clone repository:
 
 ```bash
-git clone https://github.com/Andrixviii/Gmail-MCP-Assistant-test.git
+git clone https://github.com/Andrixviii/Gmail-MCP-Assistant-Local.git
 ```
 
 Masuk ke direktori project:
